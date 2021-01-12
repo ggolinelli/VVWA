@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>WebAppMVC</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>acb42526-ae30-4736-8d2f-cc18d7c95870</ProjectGuid>
+  <FullPath>C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\WebAppMVC.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\.sonarqube\out\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\bin\WebAppMVC.dll.RoslynCA.json|C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\bin\WebAppMVC.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

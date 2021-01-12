@@ -1,0 +1,55 @@
+﻿body {
+    /* imposto lo sfondo della pagina */
+    background-image:url("../immagini/sfondo.jpg");
+    background-size:cover;
+}
+#menu{
+    font-family:'Trebuchet MS' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:22px;
+    font-weight:normal;
+    font-stretch:normal;
+    background-color:floralwhite;
+    width:800px;
+    /* height:100px;*/
+    margin:0 auto 0 auto;
+}
+
+#DDCategorie{
+    font-family:'Trebuchet MS' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:22px;
+    font-weight:normal;
+    font-stretch:normal;
+}
+#footer{
+    font-family:'Trebuchet MS' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    font-stretch:normal;
+    color:white;
+    width:800px;
+    margin:0 auto 0 auto;
+}
+
+#contenuto{
+    font-family:'Trebuchet MS' 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:18px;
+    font-weight:normal;
+    font-stretch:normal;
+    width:800px;
+    height:600px;
+    margin:0 auto 0 auto;
+}
+
+#menu a:link{
+    /* nel menù, per i link non vedo la sottolineatura*/
+    text-decoration:none;
+    /*color:blue;*/
+}
+#menu a:hover{
+    /* nel menù quando vado su un link diventa rosso */
+    color:red;
+}
+#menu a:visited{
+    /* nel menù i link già visitati rimangono di colore blu */
+    /*color:blue;*/
+}

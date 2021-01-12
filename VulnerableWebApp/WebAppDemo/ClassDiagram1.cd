@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebAppDemo.Ajax" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAABAAAAAAAAAFgAIAAAYAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Ajax.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.Default" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQIAAIAAAIBAAAAAMAAgA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.FileInjection" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAAAgAIAAAQAAAAAAAAAMAAgA=</HashCode>
+      <FileName>FileInjection.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.Global" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.HTTPRS" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAABAAIAAAIAAAAAAAAAIAAgA=</HashCode>
+      <FileName>HTTPRS.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.LFI" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAADgAIAAQcAAAAAAAAAIAAgA=</HashCode>
+      <FileName>LFI.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.login" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAkAIAAEQAAAAAAAAAIAAgA=</HashCode>
+      <FileName>login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.PostJsonData" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABgAIAAAYABAAAAAAAIAAAA=</HashCode>
+      <FileName>PostJsonData.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.Prodotto">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>PostJsonData.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.RFI" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAgAIAAQQAAAAAAAAAIAAgA=</HashCode>
+      <FileName>RFI.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.xss" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAgAIAAQAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>xss.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.xss_elab" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>xss_elab.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.XXE" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAIAAQQAAAAAAAAAIAAgA=</HashCode>
+      <FileName>XXE.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.XXE_elab" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQDgAIAAAcAgAAAAAAAIAAgA=</HashCode>
+      <FileName>XXE_elab.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.lib.Cryptograpy" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgiAAAAAAAAAAAAgAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>lib\Cryptograpy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.privata.riservata" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAIAAAQAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Private\riservata.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppDemo.Private.XSRF" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAEAAAAAAAAAAAAAgAIAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Private\XSRF.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

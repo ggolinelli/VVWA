@@ -1,0 +1,17 @@
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll.config
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Newtonsoft.Json.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Extensions.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Primitives.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Newtonsoft.Json.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Extensions.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\System.Net.Http.Primitives.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.App.config
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.CoreCompileInputs.cache
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csprojAssemblyReference.cache
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\VulnerableWebApp.csproj.CopyComplete

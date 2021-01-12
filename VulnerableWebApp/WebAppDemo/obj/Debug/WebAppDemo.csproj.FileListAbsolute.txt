@@ -1,0 +1,26 @@
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll.config
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\bin\WebAppDemo.pdb
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.csprojResolveAssemblyReference.cache
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.dll
+C:\Users\gian\Documents\Visual Studio 2017\Projects\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll.config
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\bin\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\bin\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\WebAppDemo\WebAppDemo\obj\Debug\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll.config
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\WebAppDemo.pdb
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.csprojResolveAssemblyReference.cache
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.csproj.CoreCompileInputs.cache
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.dll
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\obj\Debug\WebAppDemo.pdb

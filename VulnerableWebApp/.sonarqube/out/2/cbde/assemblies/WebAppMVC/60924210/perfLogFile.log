@@ -1,0 +1,8 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\BundleConfig.cs	8	_WebAppMVC.BundleConfig.RegisterBundles$System.Web.Optimization.BundleCollection$	0	3
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\FilterConfig.cs	7	_WebAppMVC.FilterConfig.RegisterGlobalFilters$System.Web.Mvc.GlobalFilterCollection$	0	3
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Global.asax.cs	12	_WebAppMVC.MvcApplication.Application_Start$$	0	3
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Controllers\HomeController.cs	49	_WebAppMVC.Controllers.HomeController.Index$$	0	2
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Controllers\HomeController.cs	62	_WebAppMVC.Controllers.HomeController.Test$$	0	2
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Models\Model1.Context.cs	22	_WebAppMVC.Models.Model1Container.OnModelCreating$System.Data.Entity.DbModelBuilder$	0	2
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\RouteConfig.cs	11	_WebAppMVC.RouteConfig.RegisterRoutes$System.Web.Routing.RouteCollection$	0	3

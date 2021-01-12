@@ -1,0 +1,212 @@
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Ajax.aspx.cs
+Page_Load 325
+Page_Load 234
+Button1_Click 728
+Button1_Click 625
+Button2_Click 10
+Button2_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Ajax.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\CommandInjection.aspx.cs
+Page_Load 13
+Page_Load 15
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\CommandInjection.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Default.aspx.cs
+Page_Load 8
+Page_Load 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Default.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\FileInjection.aspx.cs
+Page_Load 6
+Page_Load 0
+Button1_Click 105
+Button1_Click 62
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\FileInjection.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Global.asax.cs
+Application_Start 9
+Application_Start 0
+Session_Start 9
+Session_Start 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\HTTPRS.aspx.cs
+Page_Load 120
+Page_Load 78
+Button2_Click 8
+Button2_Click 0
+Button3_Click 6
+Button3_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\HTTPRS.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LDAPInjection.aspx.cs
+Page_Load 6
+Page_Load 0
+Button1_Click 15
+Button1_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LDAPInjection.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LFI.aspx.cs
+Page_Load 8
+Page_Load 0
+Button1_Click 12
+Button1_Click 0
+Button2_Click 15
+Button2_Click 0
+Button3_Click 13
+Button3_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\LFI.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\lib\Cryptograpy.cs
+compute_hash 49
+compute_hash 31
+compute_hash_sha2 21
+compute_hash_sha2 0
+EncryptStringToBytes_Aes 11
+EncryptStringToBytes_Aes 0
+DencryptStringFromBytes_Aes 14
+DencryptStringFromBytes_Aes 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\login.aspx.cs
+Page_Load 10
+Page_Load 0
+Button1_Click 7
+Button1_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\login.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\pageforstaticanalysis.aspx.cs
+Page_Load 7
+Page_Load 0
+Button1_Click 13
+Button1_Click 0
+code_analysis_method 81
+code_analysis_method 62
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\pageforstaticanalysis.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\PostJsonData.aspx.cs
+Page_Load 10
+Page_Load 0
+Button1_Click 15
+Button1_Click 0
+Button2_Click 14
+Button2_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\PostJsonData.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\newuser.aspx.cs
+Page_Load 11
+Page_Load 0
+Button1_Click 54
+Button1_Click 46
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\newuser.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\riservata.aspx.cs
+Page_Load 6
+Page_Load 0
+Button1_Click 6
+Button1_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\riservata.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\XSRF.aspx.cs
+Page_Load 54
+Page_Load 46
+Button1_Click 15
+Button1_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Private\XSRF.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Prodotti.aspx.cs
+Page_Load 31
+Page_Load 15
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Prodotti.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\prodotti2.aspx.cs
+Page_Load 21
+Page_Load 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\prodotti2.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Properties\AssemblyInfo.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Redirect.aspx.cs
+Page_Load 9
+Page_Load 0
+RadioButton1_CheckedChanged 11
+RadioButton1_CheckedChanged 0
+RadioButton2_CheckedChanged 10
+RadioButton2_CheckedChanged 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Redirect.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\RFI.aspx.cs
+Page_Load 6
+Page_Load 0
+Button1_Click 15
+Button1_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\RFI.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Welcomepage.aspx.cs
+Page_Load 9
+Page_Load 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\Welcomepage.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XPathInjection.aspx.cs
+Page_Load 5
+Page_Load 0
+Button1_Click 37
+Button1_Click 15
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XPathInjection.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss.aspx.cs
+Page_Load 10
+Page_Load 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss_elab.aspx.cs
+Page_Load 9
+Page_Load 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\xss_elab.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE.aspx.cs
+Page_Load 6
+Page_Load 0
+Button1_Click 5
+Button1_Click 0
+Button2_Click 14
+Button2_Click 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE.aspx.designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE_elab.aspx.cs
+Page_Load 15
+Page_Load 0
+Button1_Click 22
+Button1_Click 0
+Button2_Click 25
+Button2_Click 0
+Button3_Click 10
+Button3_Click 0
+Button4_Click 18
+Button4_Click 15
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppDemo\XXE_elab.aspx.designer.cs
+
+C:\Users\gian7\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cs
+

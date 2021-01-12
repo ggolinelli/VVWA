@@ -1,0 +1,3 @@
+credit card: XYZW
+expiration: 00/00/25
+titolare: JJ

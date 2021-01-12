@@ -1,0 +1,38 @@
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\BundleConfig.cs
+RegisterBundles 1379
+RegisterBundles 578
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\FilterConfig.cs
+RegisterGlobalFilters 31
+RegisterGlobalFilters 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\App_Start\RouteConfig.cs
+RegisterRoutes 147
+RegisterRoutes 31
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Controllers\HomeController.cs
+Index 123
+Index 46
+Test 8
+Test 0
+AddProduct 25
+AddProduct 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Global.asax.cs
+Application_Start 12
+Application_Start 0
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Models\Model1.Context.cs
+OnModelCreating 25
+OnModelCreating 15
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Models\Model1.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Models\Model1.Designer.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Models\TProdotti.cs
+
+C:\Corsi_informatica\Sicurezza_Informatica\Secure Coding\VulnerableWebApp\WebAppMVC\Properties\AssemblyInfo.cs
+
+C:\Users\gian7\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+
